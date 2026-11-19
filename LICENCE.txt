@@ -1,0 +1,36 @@
+LICENCE D'UTILISATION DE GI-RADIO TUNER
+=======================================
+
+1. Objet
+GI-Radio Tuner est un logiciel gratuit d'écoute et d'enregistrement de radios diffusées sur Internet, développé par un particulier à titre non commercial. Son utilisation est libre et gratuite.
+
+2. Absence de garantie
+Le logiciel est fourni « en l'état », sans garantie d'aucune sorte, expresse ou implicite, notamment de bon fonctionnement, d'absence d'erreurs, de disponibilité des radios ou d'adéquation à un usage particulier.
+
+3. Radios et contenus
+Le logiciel ne fournit aucun contenu : il se connecte aux adresses de flux que l'utilisateur ajoute ou choisit. Les radios, leurs programmes et leurs logos appartiennent à leurs éditeurs respectifs. L'auteur n'est affilié à aucune radio ni à aucun service tiers.
+L'onglet « Radios en ligne » interroge l'annuaire public et communautaire radio-browser.info. Seuls les critères de recherche saisis lui sont transmis.
+
+4. Enregistrements
+Les enregistrements sont réservés à un usage strictement privé (copie privée). L'utilisateur est seul responsable de ce qu'il enregistre et de l'usage qu'il en fait. Il s'engage à respecter les droits d'auteur et droits voisins ainsi que les conditions d'utilisation des radios écoutées. Toute diffusion, publication ou revente des enregistrements est interdite sans l'autorisation des ayants droit.
+
+5. Données
+Les réglages, la liste des radios (fichiers « tuner » .db3), l'historique des titres et les enregistrements sont stockés uniquement sur l'ordinateur de l'utilisateur. Aucune donnée n'est transmise à l'auteur. Il appartient à l'utilisateur de sauvegarder ses fichiers.
+
+6. Responsabilité
+Dans toute la mesure permise par la loi, l'auteur ne pourra être tenu responsable d'aucun dommage direct ou indirect résultant de l'utilisation ou de l'impossibilité d'utiliser le logiciel, notamment la perte de données ou d'enregistrements, ni de l'usage que l'utilisateur fait des contenus écoutés ou enregistrés.
+
+7. Redistribution
+Le logiciel peut être copié et partagé gratuitement, sans modification. Il ne peut pas être vendu.
+
+8. Acceptation et droit applicable
+L'utilisateur accepte la présente licence en cochant la case prévue, lors de l'installation ou, pour la version portable, au premier lancement. La licence reste consultable à tout moment depuis le bouton « À propos » de l'application.
+La présente licence est régie par le droit français.
+
+
+COMPOSANTS TIERS
+----------------
+GI-Radio Tuner utilise les composants libres suivants, distribués selon leur propre licence. Les présentes conditions ne s'appliquent pas à eux.
+- Electron (licence MIT) et Chromium (licences diverses) : voir les fichiers LICENSE.electron.txt et LICENSES.chromium.html dans le dossier d'installation.
+- sql.js (licence MIT), basé sur SQLite (domaine public).
+- hls.js (licence Apache 2.0).
